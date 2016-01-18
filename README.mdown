@@ -1,6 +1,8 @@
 git-flow
 ========
 
+[![Join the chat at https://gitter.im/jaceenet/gitflow](https://badges.gitter.im/jaceenet/gitflow.svg)](https://gitter.im/jaceenet/gitflow?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 A collection of Git extensions to provide high-level repository operations
 for Vincent Driessen's [branching model](http://nvie.com/git-model "original
 blog post").
